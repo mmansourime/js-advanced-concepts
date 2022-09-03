@@ -55,7 +55,7 @@ let result;
 //     return sum + cValue;
 // });//جمع کردن تمام مقادیر یک آرایه به روش جدید اول
 
-//یا به روش تابع پیکانی
+//یا به روش تابع پیکانی-Arrow Function
 result = numbers.reduce((sum, cValue) => sum + cValue);//جمع کردن تمام مقادیر یک آرایه به روش جدید دوم
 
 console.log( numbers); 
